@@ -1,0 +1,30 @@
+.items-div {
+    height: 70vh;
+    overflow: scroll;
+}
+
+.font-10 {
+    font-size: 10px;
+}
+
+.font-2 {
+    font-size: 35px;
+}
+
+#total_items_sales {
+    overflow-y: scroll;
+}
+
+#total_items_selected {
+    overflow-y: scroll;
+    height: 70vh;
+}
+
+#print_ {
+    overflow-y: scroll;
+    height: 80vh;
+}
+
+.ponter {
+    cursor: pointer;
+}
