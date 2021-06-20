@@ -39,7 +39,7 @@ Installation
         print view
 
 
--  DESCRIPTION  
+DESCRIPTION  
 
 LOGIN :
 
