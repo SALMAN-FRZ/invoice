@@ -51,7 +51,7 @@ LOGIN :
 SIDEBAR :
 
 * In side bar , 2 links 
-    Items 
+    Items ,
     Invoice
 
     In Click Items => Show all items, and item crud
