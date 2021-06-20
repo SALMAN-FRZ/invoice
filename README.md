@@ -1,6 +1,6 @@
-## Ashapower
+## INVOICE
 
-- Installing backend dependencies
+- Description
 
 Application for add items and create invoice
 
