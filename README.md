@@ -10,7 +10,7 @@ INVOICE
 
 
 
-- Installation 
+Installation 
 
 *  Install XAMPP  or other server for running 
 *  In root , a database folder have database of this project
