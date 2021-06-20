@@ -27,15 +27,15 @@ Installation
     Password : 123
 ```
 * . Items : 
-     Add Item
-    Edit Item
+     Add Item ,
+    Edit Item ,
     Delete item
 
 * .  Invoice
-        Select item
-        click item and select
-        change quantity, discount amount,discount percentage 
-        delete item
+        Select item ,
+        click item and select , 
+        change quantity, discount amount,discount percentage  ,
+        delete item ,
         print view
 
 
