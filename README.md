@@ -1,6 +1,6 @@
 ## INVOICE
 
-- Description
+
 
 Application for add items and create invoice
 
@@ -10,7 +10,7 @@ INVOICE
 
 
 
-<!-- Installation -->
+- Installation 
 
 *  Install XAMPP  or other server for running 
 *  In root , a database folder have database of this project
@@ -20,7 +20,7 @@ INVOICE
 *  RUN
 
 
-<!-- Spec -->
+ - Spec
 ```
 * . Login  credentials 
     User Id : Admin
@@ -39,7 +39,7 @@ INVOICE
         print view
 
 
-<!-- DESCRIPTION -->
+-  DESCRIPTION  
 
 LOGIN :
 
@@ -86,7 +86,7 @@ SIDEBAR :
 
 
 
-<!-- language used -->
+- language used 
 
 
 * Php
@@ -106,7 +106,7 @@ SIDEBAR :
 
 
 
-  note : 
+ - note : 
 
     All calculation of invoice are in front end
 
