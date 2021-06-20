@@ -20,7 +20,7 @@ Installation
 *  RUN
 
 
- - Spec
+ 
 ```
 * . Login  credentials 
     User Id : Admin
