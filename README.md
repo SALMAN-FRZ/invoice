@@ -16,6 +16,7 @@ INVOICE
 *  In root , a database folder have database of this project
 *  Import database names ad invoice
 *  set this folder in server
+*  change ROOT_URI path in header.php , Give Your localhost path
 *  RUN
 
 
