@@ -31,7 +31,7 @@ Installation
     Edit Item ,
     Delete item
 
-* .  Invoice
+* .  Invoice :
         Select item ,
         click item and select , 
         change quantity, discount amount,discount percentage  ,
