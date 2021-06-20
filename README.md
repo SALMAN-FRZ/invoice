@@ -14,7 +14,7 @@ Installation
 
 *  Install XAMPP  or other server for running 
 *  In root , a database folder have database of this project
-*  Import database names ad invoice
+*  Import database names as invoice
 *  set this folder in server
 *  change ROOT_URI path in header.php , Give Your localhost path
 *  RUN
